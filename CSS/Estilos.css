@@ -1,0 +1,63 @@
+body{
+	background-color:white;
+}
+header{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 40px;
+	text-align: center;
+	
+}
+nav,ul{                           
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:#464646;
+}
+ li{
+	float:left ;
+	
+}
+ li a{
+	  display: block;
+	  color: white;
+	  text-align: right;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	 font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	 font-size: 20px;
+}
+li a:hover {
+	background-color: #8E8E8E;
+}
+
+.logo{
+    height: 7%;
+    width: 7%;
+    margin-right: 145px;
+	float: right;
+}
+section,p{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 25px;
+}
+footer,ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:#464646;
+}
+li p{
+	color: white;
+	text-align: center;
+	margin-left: 620px;
+	
+}
+table,td,tr{
+	border: 0px;
+}
+#bienvenido{
+	display: block;
+	margin: auto;
+}
